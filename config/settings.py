@@ -32,7 +32,9 @@ SECRET_KEY = env('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    '13.209.9.14',
+]
 
 
 # Application definition
@@ -82,11 +84,12 @@ MIDDLEWARE = [
 ROOT_URLCONF = 'config.urls'
 
 # Todo: 수정 필요
-CORS_ALLOWED_ORIGINS = [
-    'http://127.0.0.1:5173',
-    'http://localhost:5173',
-    # 프론트 배포 주소로 대체
-]
+CORS_ALLOW_ALL_ORIGINS = True
+# CORS_ALLOWED_ORIGINS = [
+#     'http://127.0.0.1:5173',
+#     'http://localhost:5173',
+#     # 프론트 배포 주소로 대체
+# ]
 
 TEMPLATES = [
     {

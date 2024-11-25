@@ -1,0 +1,542 @@
+[
+  {
+    "model": "movies.movie",
+    "pk": 1,
+    "fields": {
+      "title": "다크 나이트 (2008)",
+      "description": "정의로운 지방 검사 ‘하비 덴트’, ‘짐 고든’ 반장과 함께 범죄 소탕 작전을 펼치며 범죄와 부패로 들끓는 고담시를 지켜나가는 ‘배트맨’ 그러던 어느 날, 살아남기 위해 발버둥치던 범죄 조직은 배트맨을 제거하기 위해 광기어린 악당 ‘조커’를 끌어들이고 정체를 알 수 없는 조커의 등장에 고담시 전체가 깊은 혼돈 속으로 빠져든다. 급기야 배트맨을 향한 강한 집착을 드러낸 조커는 그가 시민들 앞에 정체를 밝힐 때까지 매일 새로운 사람들을 죽이겠다 선포하고 배트맨은 사상 최악의 악당 조커를 막기 위해 자신의 모든 것을 내던진 마지막 대결을 준비한다.",
+      "poster": "https://i.namu.wiki/i/Mca2T4UyX-b4FFVRTV6cTGzGy7pL_QxuZApBhlbyIjBMB7JN0Lc6gqiS6ZlGorousQSMUP6yJp9J3hlfkmxN0pDSjybnsMB3yoR-Sb5NxTMQF_F_GCNq9JORtGa8anQ1g0pJuTiFWrlnox4o524qzp0kERYilecfsBS6fFe4nZs.webp",
+      "genre": 1
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 2,
+    "fields": {
+      "title": "레옹 (1994)",
+      "description": "정처 없이 떠돌며 살아가는 킬러, ‘레옹’(장 르노) 어느 날, 그의 이웃집 소녀 ‘마틸다’(나탈리 포트만)의 온가족이 몰살당한다. 우연히 살아남은 ‘마틸다’는 ‘레옹’에게 도움을 청하고, ‘레옹’은 하루아침에 소녀의 보호자가 되고 만다. ‘마틸다’는 ‘레옹’과 함께 지내며 자신의 가족을 몰살한 이가 부패 경찰 ‘스탠스필드’(게리 올드만)임을 알게 되고, 사랑했던 남동생의 복수를 결심하는데…",
+      "poster": "https://i.namu.wiki/i/Mca2T4UyX-b4FFVRTV6cTK4S9B6EvONPjxhG0mtttoXiweLADCRD0Ics8zwDDOODuRyPrLifZHJqFNCWPQTymfXFV-HYJGgQGd-1n-Kg3AJNlYIhhwM98x7eBPi0dcdcL0bWaBQMqRgnkuxntPCYQGbEmlYIzKel6hcTfN8Nhio.webp",
+      "genre": 1
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 3,
+    "fields": {
+      "title": "다이 하드 (1988)",
+      "description": "크리스마스를 보내기 위해 아내와 자식이 있는 로스엔젤레스로 날아온 뉴욕 경찰 존 맥크레인(브루스 윌리스 분). 그가 아내 홀리(보니 델리아 분)의 직장이 있는 나카토이 빌딩으로 찾아 갔을 때, 사무실에서는 크리스마스 파티가 한창이다. 그러나 파티가 한창 무르익을 무렵, 한스 그루버(Hans Gruber: 알란 릭맨 분)가 이끄는 일단의 테러리스트들이 침입, 사장을 비롯한 파티 참석자 30여 명을 인질로 삼고 건물 금고에 소장하고 있는 돈과 보물을 손에 넣으려 한다. 최첨단 하이테크에 의해 관리되던 34층짜리 나카토미 빌딩은 통채로 테러리스트들의 수중으로 넘어가 폐쇄되고 고층 빌딩은 살벌한 생존 게임의 전쟁터로 변해 가공할 병기가 복도를 휘젖는다. 긴급 출동한 경찰과 FBI는 혼자 고군분투하는 존을 무시한 채 멋대로 무리한 작전을 수행한다. 뿐만 아니라 출세욕에 눈이 먼 TV 리포터는 앞뒤없이 카메라를 들이대어 맥클레인을 궁지로 몰아 넣는다. 다만 말단 흑인 경찰관 포웰 경사(레지날드 볼존슨 분)만이 그의 눈과 귀가 되어 줄 뿐이다. 맥클레인은 초인적인 힘을 발휘하여 최첨단 장비로 무장된 12명의 테러리스트들을 한명씩 처치해 간다.",
+      "poster": "https://i.namu.wiki/i/Mca2T4UyX-b4FFVRTV6cTK9RjHsonQ3BPVwBVXtBrz35cFLv38aS6lWAdxQH50e1in3VsdROl5eO6Hl0j558uTue255q2plCnZcH3-SIEPVPACvy5WnXT_bnxxDAEXab_HLBgKTSZpmqH4nanZOXywz40QWeGpgKiGauqbCBCJk.webp",
+      "genre": 1
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 4,
+    "fields": {
+      "title": "존윅 (2015)",
+      "description": "전설이라 불리던 킬러 ‘존 윅’(키아누 리브스)은 사랑하는 여인을 만나 결혼을 하면서 범죄의 세계에서 은퇴한다. 행복도 잠시, 투병 끝에 부인이 세상을 떠나고 그의 앞으로 부인이 죽기 전에 보낸 강아지 한 마리가 선물로 배달된다. 그러던 어느 날, 그의 집에 괴한들이 들이닥치는데… 더 이상 잃을 것이 없다. 오직 너희만 죽인다! 건드리지 말아야 할 그의 분노를 잘못 깨웠다. 받은 것보다 더 돌려주는 통쾌한 복수, 존 윅의 거침없는 복수가 마침내 폭발한다!",
+      "poster": "https://i.namu.wiki/i/Mca2T4UyX-b4FFVRTV6cTMrg_xgdsEurd90vCbRxnxzKfZzoJDYK22at7W4123JI3XA6OkJVXyPAd4y2BaVyvoDrI_BL1GkMY7OoSSBi6qENgFLTp_MEJvUU3T0eQi2nhJGxT1jpCSdvZiJqntIaLrxnn4ujXgLgiZsm_dIg32Y.webp",
+      "genre": 1
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 5,
+    "fields": {
+      "title": "범죄도시 (2017)",
+      "description": "2004년 서울… 하얼빈에서 넘어와 단숨에 기존 조직들을 장악하고 가장 강력한 세력인 춘식이파 보스 ‘황사장(조재윤 분)’까지 위협하며 도시 일대의 최강자로 급부상한 신흥범죄조직의 악랄한 보스 ‘장첸(윤계상 분)’. 대한민국을 뒤흔든 ‘장첸(윤계상 분)’ 일당을 잡기 위해 오직 주먹 한방으로 도시의 평화를 유지해 온 괴물형사 ‘마석도(마동석 분)’와 인간미 넘치는 든든한 리더 ‘전일만(최귀화 분)’ 반장이 이끄는 강력반은 나쁜 놈들을 한방에 쓸어버릴 끝.짱.나.는. 작전을 세우는데… 통쾌하고! 화끈하고! 살벌하게! 나쁜 놈들 때려잡는 강력반 형사들의 ‘조폭소탕작전’이 시작된다!",
+      "poster": "https://i.namu.wiki/i/Mca2T4UyX-b4FFVRTV6cTLFMDAKwQAFvKeWTgK1ItEfTRAJWA8TH_OrTupde23lmId2liFSRVabJkOTyOP4nTljdIa-ZxpyJJC18hZoZxrQttpfKJjeLAeRZNWBtB2-oyag0viH3uZwPx87m-dlOTwXVECRpsNoDsmuDdcXYGh4.webp",
+      "genre": 1
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 6,
+    "fields": {
+      "title": "쉬리 (1999)",
+      "description": "국가 일급 비밀정보기관 OP의 특수비밀요원 유중원(한석규 분)과 그의 절친한 동료 요원 이장길(송강호 분). 그들에게 뭔가 중요한 제보를 자청했던 무기밀매상 보스 임봉주가 거리에서 무참히 저격당한다. 저격 현장에 남아 있는 두 발의 탄피, 유중원은 직감적으로 특수 8군단 소속 최고의 저격수 이방희(박은숙 분)의 존재를 감지한다. 이미 여러차례 정부 요인들을 저격하고 유중원의 집요한 추적을 피해 잠적해 있던 이방희가 1년만에 다시 활동을 재개한 것이다. 죽은 임봉주의 배후를 조사하는 유중원과 이장길. 그 과정에서 이방희가 임봉주를 통해 국방과학기술연구소에서 개발한 신소재 액체 폭탄 CTX를 확보하려 했다는 것을 알아낸다. 서둘러 연구소로 향하지만 한 발 앞선 이방희가 담당 연구원을 살해한 뒤다. 한편, 북에서 침투한 박무영(최민식 분)과 특수 8군단의 정예요원은 군단사령부로 이송 중이던 CTX를 탈취하는데 성공한다. 뒤늦게 유중원과 이장길이 CTX를 쫓지만 박무영의 기습적인 공격으로 가까스로 목숨만을 구한다. 유중원은 탈취범이 리비아 대사관 진압 작전시 자신과 대면했던 박무영임을 알게 된다. 결정적인 움직임 때마다 늘 한발 앞서 나타나는 이방희의 행적은 오래전부터 OP의 주요 정보들이 외부로 은밀히 유출되고 있었음을 알려주고, OP는 내부 첩자에 의한 짙은 의혹에 휩싸인다. 서로가 서로를 의심하는 고국장, 유중원, 이장길. CTX 행방을 두고 촉각을 세우는 동시에 그들 사이엔 미묘한 갈등과 긴장감이 감돈다. 도저히 방향을 종잡을 수 없는 상황 속에서 한 달 앞으로 다가온 명현(김윤진 분)과의 결혼은 유중원에게 또 다른 불행을 예고한다. 자신의 신분을 감추고 명현을 대했던 유중원, 그의 뜨거운 사랑에 눈물을 흘리는 예상치 못한 명현의 신분이 밝혀진다.",
+      "poster": "https://i.namu.wiki/i/Mca2T4UyX-b4FFVRTV6cTAoRUSoBW7byD2Lovp1laCtyZ1QeTlCv5zkJyAoE6PmrkUNy12_OcuXFvKZunsVj-Zk4er0UfJbCcdxZYS4FJHN9Vef_uvkkF1qirsLHmB7oyUMXxGTx3Nfp6utyshcuieASCV_fUWmE_7hnsxV5aN4.webp",
+      "genre": 1
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 7,
+    "fields": {
+      "title": "인크레더블 (2004)",
+      "description": "보이지 않는 곳에서 악의 무리들을 일망타진하는 세계 최강의 슈퍼히어로 \"미스터 인크레더블\" 그러나 은퇴한지 벌써 15년! 전성기 때 ‘몸짱’에서 ‘몸꽝’이 되어버린 그의 불룩 나온 배는 이제 초강력 허리띠조차 튕겨 내버린다. 그런 그에게 정체불명의 특명이 떨어진다. 출동할 곳은 본토와 아득히 떨어진 섬, 특명을 내린 사람을 알 수 없는 1급 비밀작전. 평범한 시민 \"미스터 인크레더블\"은 다시 빛나는 영웅으로 복귀 할 수 있을 것인가.",
+      "poster": "https://i.namu.wiki/i/Mca2T4UyX-b4FFVRTV6cTOfySJkJYrDZk6k8XAZz6y4KDG3cIXY1EEYCKMUJEY5AijXAXBz3i0Xobm9A02Yb65pfTL3mtnlr_HOIGtuwAnvsynbBz72kA-106fMAhTQwrtam_IqAwqvlazIfOC6DSD9X_wWiiT_4YgChX-77m3M.webp",
+      "genre": 2
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 8,
+    "fields": {
+      "title": "겨울왕국 (2014)",
+      "description": "서로가 최고의 친구였던 자매 ‘엘사’와 ‘안나’. 하지만 언니 ‘엘사’에게는 하나뿐인 동생에게조차 말 못할 비밀이 있다. 모든 것을 얼려버리는 신비로운 힘이 바로 그것. ‘엘사’는 통제할 수 없는 자신의 힘이 두려워 왕국을 떠나고, 얼어버린 왕국의 저주를 풀기 위해 ‘안나’는 언니를 찾아 환상적인 여정을 떠나는데……",
+      "poster": "https://i.namu.wiki/i/Mca2T4UyX-b4FFVRTV6cTMDv7tmzEgAZ03E0YEez_O0EyVxUO5TrUDq-j-yuBkxBNDIbsmN-6llluwmnpRguxeomWHJFyyV14v3zWIsoD89WtUp4Fkagz7QKrWvoOQL1zQVRiNaFahgXn6WZN9gyI920i4B_N0KE5Sj_8UMUZTc.webp",
+      "genre": 2
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 9,
+    "fields": {
+      "title": "센과 치히로의 행방불명 (2002)",
+      "description": "금지된 세계의 문이 열렸다! 이사 가던 날, 수상한 터널을 지나자 인간에게는 금지된 신들의 세계로 오게 된 치히로.. 신들의 음식을 먹은 치히로의 부모님은 돼지로 변해버린다. “걱정마, 내가 꼭 구해줄게…” 겁에 질린 치히로에게 다가온 정체불명의 소년 하쿠. 그의 따뜻한 말에 힘을 얻은 치히로는 인간 세계로 돌아가기 위해 사상 초유의 미션을 시작하는데…",
+      "poster": "https://i.namu.wiki/i/Mca2T4UyX-b4FFVRTV6cTJfshj8kyjrKnQSzyQt99cZtdZHgzjxSNFxdKXgFnhgLBAMc7SqdqJSVAmq6aURTQMerLqNoXBl4brGqLVHcdcU0xzyg8CmkA-uaqaMQqcNZ_UFp--wUi151aFYb9CQgQ_Yh_gpqfIxYTOguE-xXSOU.webp",
+      "genre": 2
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 10,
+    "fields": {
+      "title": "토이스토리 (1995)",
+      "description": "우디(톰 행크스 목소리 분)는 6살짜리 남자 아이 앤디가 가장 아끼는 카우보이 인형인데, 어느날 접었다 폈다 하는 날개와 레이저 디지털 음성을 가진 최신 액션 인형 버즈(팀 알렌 목소리 연기)가 나타나자 그의 위치가 흔들리기 시작한다. 모든 장난감들의 최고의 공포는 새로운 장난감들에 의해 밀려나는 것이다. 애타는 우디의 심정에도 불구하고 버즈는 앤디의 최고 인형으로 자리를 잡고, 장난감 세계 - 우디의 친구인 강아지 슬링키(짐 바니 목소리 분), 참을성 없는 Mr. 포테토(돈 리클스 목소리 분), 마음 약한 공룡 렉스(월레스 숀 목소리 분), 돼지 저금통 햄(존 래츤버거 목소리 분), 아름다운 사기 램프 인형인 보 피프(애니 파츠 목소리 분) - 에서도 인기가 급상승한다. 한편, 기세등등한 버즈가 자신이 장난감이 아닌, 외계에서 불시착한 우주 전사라고 믿는다. 우디는 버즈를 없앨 계획을 세우나, 우여곡적 끝에 둘은 바깥세상에서 서로의 힘을 합치지 않으면 살아남을 수 없는 상황에 이른다. 한편 라이벌에서 동료사이로 변한 그들은 인형과 장난감을 못살게 하는 악명높은 무서운 아이 시드의 손아귀에 들어가게 된다. 시드와 그를 닮은 개 스커드에게서 벗어나기 위해서 그 둘은 더욱 가까워진다. 버즈는 그가 진짜 우주전사가 아니라는걸 깨닫고 삶을 포기하기까지 이르나 우디의 도움으로 본인의 진짜 가치 - 장난감으로서 - 를 깨닫게 된다. 카우보이와 우주전사는 목숨을 건 모험을 통해 진정한 우정과 신뢰를 배우게 된다.",
+      "poster": "https://i.namu.wiki/i/Mca2T4UyX-b4FFVRTV6cTAsz2MWLLaUsg7hN-x2yg0hmemFpOwxopntlQJJOJ_jT8IjROCzWC18WUvyBn4azJI3QFHAuF4qNQusiVAE5rV_C_IKOflT7J0G3k_lWfJ3bEFhEAmds3yplnGY7s8g5OHkMKwZlyvhvTxm69ns9PQ4.webp",
+      "genre": 2
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 11,
+    "fields": {
+      "title": "스즈메의 문단속 (2022)",
+      "description": "\"이 근처에 폐허 없니? 문을 찾고 있어\" 규슈의 한적한 마을에 살고 있는 소녀 '스즈메'는 문을 찾아 여행 중인 청년 '소타'를 만난다. 그의 뒤를 쫓아 산속 폐허에서 발견한 낡은 문. '스즈메'가 무언가에 이끌리듯 문을 열자 마을에 재난의 위기가 닥쳐오고 가문 대대로 문 너머의 재난을 봉인하는 '소타'를 도와 간신히 문을 닫는다. \"닫아야만 하잖아요. 여기를!\" 재난을 막았다는 안도감도 잠시, 수수께끼의 고양이 '다이진'이 나타나 '소타'를 의자로 바꿔 버리고 일본 각지의 폐허에 재난을 부르는 문이 열리기 시작하자 '스즈메'는 의자가 된 '소타'와 함께 재난을 막기 위한 여정에 나선다. \"꿈이 아니었어\" 규슈, 시코쿠, 고베, 도쿄 재난을 막기 위해 일본 전역을 돌며 필사적으로 문을 닫아가던 중 어릴 적 고향에 닿은 '스즈메'는 잊고 있던 진실과 마주하게 되는데…",
+      "poster": "https://i.namu.wiki/i/Mca2T4UyX-b4FFVRTV6cTJIVOfzxbolvwec-wc5d8qeXknK1dUgXoAAgP1NL-x4dckRGM-hkzT6NpC8CAMjV8G0yYvCa57jH8UiddXC_0wrIf4OfEv1rlo0INTh9QqC99wrcu568OLE3PcOpY4dKpmo-_uGe0u-SLPe-VeDDGjM.webp",
+      "genre": 2
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 12,
+    "fields": {
+      "title": "더 퍼스트 슬램덩크 (2022)",
+      "description": "전국 제패를 꿈꾸는 북산고 농구부 5인방의 꿈과 열정, 멈추지 않는 도전을 그린 영화, 북산고는 산왕전을 이길 수 있을까",
+      "poster": "https://i.namu.wiki/i/Mca2T4UyX-b4FFVRTV6cTLgTrVgZY_HLy5VEP7vUlQ5NdLsXd1ueoeUhsG4gfLgRbV3rK8gjHLhVZIJ-K2U5PoXQELEjqGtdd22LjGgcxSJDl8dllQXdqXuoYnVJEx79GQMsVscswN8p8Led4HEomzZ4T-XeOSlGPp6r9a_VvS4.webp",
+      "genre": 2
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 13,
+    "fields": {
+      "title": "세 얼간이 (2011)",
+      "description": "천재들만 간다는 일류 명문대 ICE, 성적과 취업만을 강요하는 학교를 발칵 뒤집어 놓은 대단한 녀석 란초! 아버지가 정해준 꿈, `공학자`가 되기 위해 정작 본인이 좋아하는 일은 포기하고 공부만하는 파파보이 파르한! 찢어지게 가난한 집, 병든 아버지와 식구들을 책임지기 위해 무조건 대기업에 취직해야만 하는 라주! 친구의 이름으로 뭉친 `세 얼간이`! 삐딱한 천재들의 진정한 꿈을 찾기 위한 세상 뒤집기 한판이 시작된다!",
+      "poster": "https://i.namu.wiki/i/Mca2T4UyX-b4FFVRTV6cTDgPFOqqcHmR5dIwt6m_rSGBzc-T3FkkLgB2lsGwRC7M9APh5615FFMntXxnMFmnbfDEaMWg9ui1UCgNy0orUuS3ci55CwwlqweyVOQJ9BQYSvMwi3g6K3eKz5W1DXHSZ5cF6RORJF-fUsWczkWAX7A.webp",
+      "genre": 3
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 14,
+    "fields": {
+      "title": "모던 타임즈 (1936)",
+      "description": "공장에서 하루 종일 나사못 조이는 일을 하는 찰리. 눈에 보이는 모든 것을 조여버리는 강박 관념에 빠지고만 그는 급기야 정신 병원에 가게 되고, 거리를 방황하다 시위 군중에 휩쓸려 감옥살이까지 하게 된다. 몇 년 후 감옥에서 풀려난 찰리는 부모를 잃고 고아가 된 한 아름다운 소녀를 도와주게 되고, 그녀의 도움으로 카페에서 일하게 되지만 우여곡절 끝에 다시 거리로 내몰리고 만다. 절망 속에서 피어나는 함박웃음! 찰리와 소녀의 행복을 찾아가는 아름다운 여정!",
+      "poster": "https://i.namu.wiki/i/Mca2T4UyX-b4FFVRTV6cTDdkLpKKSNgPC-o0Voufputpb9bGTceNP0rJ8YaWPx5vPBfAm3eML9MaFsPF1GiJQ_2xRK5yJp11JATEV8XpeMlRTxVlTkliAfnIO9xCV1UJ8RWaKJS5OPYnTxQw4AXxcmxppUSPiLtaXXoXsPIobew.webp",
+      "genre": 3
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 15,
+    "fields": {
+      "title": "극한직업 (2019)",
+      "description": "불철주야 달리고 구르지만 실적은 바닥, 급기야 해체 위기를 맞는 마약반! 더 이상 물러설 곳이 없는 팀의 맏형 고반장은 국제 범죄조직의 국내 마약 밀반입 정황을 포착하고 장형사, 마형사, 영호, 재훈까지 4명의 팀원들과 함께 잠복 수사에 나선다. 마약반은 24시간 감시를 위해 범죄조직의 아지트 앞 치킨집을 인수해 위장 창업을 하게 되고, 뜻밖의 절대미각을 지닌 마형사의 숨은 재능으로 치킨집은 일약 맛집으로 입소문이 나기 시작한다. 수사는 뒷전, 치킨장사로 눈코 뜰 새 없이 바빠진 마약반에게 어느 날 절호의 기회가 찾아오는데… 범인을 잡을 것인가, 닭을 잡을 것인가!",
+      "poster": "https://i.namu.wiki/i/Mca2T4UyX-b4FFVRTV6cTBJT-dtMQS-iwXnW96zhpTaWe-Ube_WEs-5TG3oh6vO9Pbt9uGLfaHXGjTm7n_KfPOt-DTQ2FqNr_Eub5qdUP0Z_pN2UaKxSCXe3Zi0dEi9er2EiqFmKsDQgbXJfbptMWizhwDu0iFmdyjtqyItRDmI.webp",
+      "genre": 3
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 16,
+    "fields": {
+      "title": "과속스캔들 (2008)",
+      "description": "한때 아이돌 스타로 10대 소녀 팬들의 영원한 우상이었던 남현수(차태현). 지금은 서른 중반의 나이지만, 그래도 아직까지는 잘나가는 연예인이자, 청취율 1위의 인기 라디오 DJ. 어느 날 애청자를 자처하며 하루도 빠짐없이 라디오에 사연을 보내오던 황.정.남(박보영)이 느닷없이 찾아와 자신이 현수가 과속해서 낳은 딸이라며 바득바득 우겨대기 시작하는데!! 그것도 애까지 달고 나타나서…… 집은 물론 현수의 나와바리인 방송국까지. 어디든 물불 안 가리고 쫓아다니는 스토커 정남으로 인해 완벽했던 인생에 태클 한방 제대로 걸린 현수. 설상가상 안 그래도 머리 복잡한 그에게 정남과 스캔들까지 휩싸이게 되는데… 나 이제, 이거 한방 터지면 정말 끝이다! 끝!!",
+      "poster": "https://i.namu.wiki/i/Mca2T4UyX-b4FFVRTV6cTP4-fbsqSneuQHort7BQi85ljdA-XxJHuPv56mG0yO6EkBWC4Hz6wBYH8QuNHonvIjDQCipNZFV3kOVe-ds58Yx5Jul2JVIDAHRditR6oMee6izZnMElq84cWExJJ4KPsn-jTRifA1ehksYBmcEhsYI.webp",
+      "genre": 3
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 17,
+    "fields": {
+      "title": "행오버 (2009)",
+      "description": "폭음으로 인해 전날 밤 기억을 잃은 세 남자들의 이야기. 질펀하게 벌인 총각파티 이후 신랑 실종이라는 황당 사건을 다룬 미국식 코미디 영화",
+      "poster": "https://i.namu.wiki/i/Mca2T4UyX-b4FFVRTV6cTHgZ2TDorz5UJrGTp1yPYvkWlbXgZuktAOkkSDfFEaGCa4a2aYcOF-teJ0aLjcrSIdKcKMOD1oJ0pouPK8d90zz0UIxYsZrew_N8FNwCTM85BfVKMDWzLpewtgns0Eu5N13sJGt5-oe73gOh3UtL5n4.webp",
+      "genre": 3
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 18,
+    "fields": {
+      "title": "브루스 올마이티 (2003)",
+      "description": "브루스는 뉴욕, 버펄로 지방 방송국의 뉴스 리포터. 재미있고 소박한 이웃들 얘기를 단골로 맡아 재미있는 입담으로 사람들을 즐겁게 해주지만 정작 자신은 자신에게 주어지는 별 볼일 없는 취재거리가 늘 불만이다. 곧 은퇴할 앵커의 후임이나, 적어도 극적인 사건의 현장을 전하는 게 그의 꿈. 자신의 모습에 대해 하나부터 열까지 모두 불만인 그는 쉴새 없이 신에게 불만을 쏟아놓는다. 유아원을 운영하는 브루스의 여자친구 그레이스(제니퍼 애니스톤)는 반대로, 자신의 삶에 만족하고, 늘 툴툴거리기만 하는 브루스를 변함없이 받아주고 사랑한다. 브루스의 꿈이 월터 크론카이트 같은 대 앵커가 되는 것이라면, 그레이스는 매일매일 작은 일로 세상에 도움을 주려는 소박하고 따뜻한 마음을 가지고 있다. 그러던 어느 날 브루스에게 기회가 찾아온다. 나이아가라 폭포의 유명한 \"Maid of the Mist (안개 속의 처녀)\"호의 23주년 기념일 취재를 맡게 된 것. 하지만 방송 직전, 브루스는 공석으로 알고 있던 앵커 자리가 그와 늘 으르렁거리는 왕재수 라이벌에게 돌아갔다는 것을 알게 되자, 수 백만 시청자 앞에서 정신없이 욕을 퍼붓는다. 방송국에서 쫓겨난 건 불 보듯 뻔한 일. 하지만 바로 그날 설상가상으로 브루스는 건달들에게 몰매를 맞고, 차가 엉망이 되고, 재수 없어도 오부지게 없는 일들만 반복된다. 화가 나 폭발하기 일보직전엔 브루스는 하늘을 향해 삿대질을 해대며, 자신의 불행은 신 탓이라며 원망한다. 이때 삐삐가 울리고 번호 하나가 찍힌다. 몇 번을 무시한 끝에 그 정체 모를 번호에 전화를 걸게 된 브루스는 \"Omni Presents 사\"라는 이상한 낡은 건물로 향하게 되고, 거기서 정체불명의 청소부(모건 프리먼)을 만난다. 그런데 그 청소부는 놀랍게도 브루스에게 자신이 신이라고 소개한다. 브루스의 원망에 응답해 모습을 나타낸 신은, 이 열 잘 받는 전직 리포터에게 자신의 전지전능한 힘을 주고, 얼마나 더 나은 세상을 만들 수 있는지 보자고 한다. 이게 꿈인가 생신가, 자신의 능력을 시험해본 브루스는 자신에게 주어진 힘이 악몽도 환상도 아님을 알게 되고, 무엇이든 마음대로 할 수 있는 전능한 존재가 됐음을 알게 된다. 이제 브루스 놀란은 우주에서 가장 강력한 망나니가 되고, 마음대로 손가락을 휘둘러대기 시작한다. 과연 브루스는 자신에게 가장 소중한 것을 찾아낼 수 있을 것인가.",
+      "poster": "https://i.namu.wiki/i/Mca2T4UyX-b4FFVRTV6cTHQPGn6dhGg-y0oHY_jC_XT0KQXhMXFZsUWoS_kI_5cNt9jOVv6KbwlJ-2PX39PQEY88J8aBOsmWsz3R5WOj8RCaPvyE4j95RnDI7ZfqJnjP8JmDHrYX8Y4Qr1bhR-6Nx3dhmGmnqQU8iOY1BOg6sSM.webp",
+      "genre": 3
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 19,
+    "fields": {
+      "title": "신세계 (2013)",
+      "description": "\"너, 나하고 일 하나 같이 하자\" 경찰청 수사 기획과 강과장(최민식)은 국내 최대 범죄 조직인 '골드문'이 기업형 조직으로 그 세력이 점점 확장되자 신입경찰 이자성(이정재)에게 잠입 수사를 명한다. 그리고 8년, 자성은 골드문의 2인자이자 그룹 실세인 정청(황정민)의 오른팔이 되기에 이른다. \"우리 브라더는 그냥 딱, 이 형님만 믿으면 돼야!\" 골드문 회장이 갑자기 사망하자, 강과장(최민식)은 후계자 결정에 직접 개입하는 '신세계' 작전을 설계한다. 피도 눈물도 없는 후계자 전쟁의 한 가운데, 정청(황정민)은 8년 전, 고향 여수에서 처음 만나 지금까지 친형제처럼 모든 순간을 함께 해 온 자성(이정재)에게 더욱 강한 신뢰를 보낸다. \"약속 했잖습니까... 이번엔 진짜 끝이라고\" 한편, 작전의 성공만 생각하는 강과장(최민식)은 계속해서 자성(이정재)의 목을 조여만 간다. 시시각각 신분이 노출될 위기에 처한 자성(이정재)은 언제 자신을 배신할 지 모르는 경찰과, 형제의 의리로 대하는 정청(황정민) 사이에서 갈등하게 되는데…",
+      "poster": "https://i.namu.wiki/i/Mca2T4UyX-b4FFVRTV6cTI4gwSYohCebNHIVoWSWXZop12WYAH_r-kEj8Yn7sO0F3jXfqm11ZE9fifjUhxT_PiVObdmtNFmgFYWWQVa14pBfT0csSJgIiS2qlzxg1Ofrn6Z8Qk57K8XFYktT3FnWHvPLH8SDF-kJZ7B67avH__I.webp",
+      "genre": 4
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 20,
+    "fields": {
+      "title": "악마를 보았다 (2010)",
+      "description": "국정원 경호요원 ‘수현(이병헌)’은 약혼녀 주연이 잔인하게 살해당하자 자신에게 가장 소중한 사람을 지켜내지 못했다는 자괴감과 분노로 가장 고통스러운 복수를 다짐한다. 수현은 연쇄살인마 ‘장경철(최민식)’이 범인임을 알아내고 죽을 만큼의 고통만 가하고 놓아주기를 반복하며 처절한 응징을 시작한다. 그러나, 악마보다 더 악랄한 살인마 장경철은 난생 처음 만난 대등한 적수의 출현을 즐기며 반격에 나서기 시작하는데…",
+      "poster": "https://i.namu.wiki/i/Mca2T4UyX-b4FFVRTV6cTAD6Tp6uCdukmwYJyTxa501TzWJJOUTNR1lsegBKBB2PyRK8wimRImZyRco8l7Jpnlyu4K9zdFLHeuRuS1I_v4XawVlCH9TxPFmH3G62qCJbP2MXGQzpBAVAS1vlr_k_cRolGip6-Y-bbJiGlrxD2aw.webp",
+      "genre": 4
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 21,
+    "fields": {
+      "title": "대부 (1973)",
+      "description": "1947년 돈 코를레오네(Vito Corleone: 말론 브란도 분)의 호화 저택에서는 막내딸 코니(Connie Corleone Rizzi: 탈리아 샤이어 분)와 카를로(Carlo Rizzi: 지아니 루소 분)와의 초호화판 결혼식이 거행되고 있다. 시실리아에서의 이민과 모진 고생 끝에 미국 암흑가의 보스로 군림하는 마피아의 두목 돈 코를레오네. 재력과 조직력을 동원, 갖가지 고민을 호소하는 사람들의 문제를 해결해, 사람들은 그를 ‘대부(代父)’라 부른다. 돈 코를레오네는 9세때 그의 고향인 시실리아에서 가족 모두가 살해 당하고 오직 그만 살아남아 미국으로 도피하여 밑바닥 범죄 세계를 경험하면서 확고한 기반을 다지게 된다. 부모의 복수를 위해 시실리로 돌아와 조직적 범죄를 통해 비약적인 성공을 거두게 된다. 그러던 어느날 돈 코를레오네의 라이벌인 탓타리아 패밀리의 마약 밀매인 소롯소(Sollozzo: 알 레티어리 분)가 돈 코를레오네를 저격, 중상을 입히는데...",
+      "poster": "https://i.namu.wiki/i/Mca2T4UyX-b4FFVRTV6cTK1JShvz9mYFviNdVe7YSX3u08geViGOTIAWmKENaAxIBLoEYCsR9GlOCiElGgt4QJI5LMa1Dz4GEA79To-Cfzpm_1OVw40iDQ5AC4umsY2qNiiYR4umR3xG6OlwJ062BxGTRmRg3HHiGpeHQhTzMZc.webp",
+      "genre": 4
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 22,
+    "fields": {
+      "title": "범죄와의 전쟁: 나쁜놈들 전성시대 (2012)",
+      "description": "‘나쁜 놈들의 전성시대’가 시작된다! 비리 세관 공무원 최익현, 보스 최형배를 만나다! 1982년 부산. 해고될 위기에 처한 비리 세관원 최익현(최민식)은 순찰 중 적발한 히로뽕을 일본으로 밀수출, 마지막으로 한 탕 하기 위해 부산 최대 조직의 젊은 보스 최형배(하정우)와 손을 잡는다.  머리 쓰는 나쁜 놈과 주먹 쓰는 나쁜 놈, 부산을 접수하다! 익현은 탁월한 임기응변과 특유의 친화력으로 형배의 신뢰를 얻는데 성공한다. 주먹 넘버원 형배와 로비의 신 익현은 함께 힘을 합쳐 부산을 접수하기 시작하고, 두 남자 앞에 나쁜 놈들의 전성시대가 펼쳐진다.  넘버원이 되고 싶은 나쁜 놈들의 한판 승부. 범죄와의 전쟁 하지만 1990년 범죄와의 전쟁이 선포되자 조직의 의리는 금이 가고 넘버원이 되고 싶은 나쁜 놈들 사이의 배신이 시작된다. 살아남기 위해 벌이는 치열한 한판 승부, 최후에 웃는 자는 과연 누가 될 것인가?",
+      "poster": "https://i.namu.wiki/i/Mca2T4UyX-b4FFVRTV6cTKUN5_IC3oq6H0wnJX38mG1kj2MC70cz77AaCruTELfuzMHg7S4FA6JAWX-vTTfVRj1wl1ByK1HW88pvITXbZs6WNTjjZ11o4KFDCeYRE-iCARbphb-4CtRoumPM3Xl40FxrvyE_j9lWfzwP-WPcZwk.webp",
+      "genre": 4
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 23,
+    "fields": {
+      "title": "노인을 위한 나라는 없다 (2007)",
+      "description": "총격전이 벌어진 끔찍한 현장에서 르웰린 모스(조슈 브롤린)는 우연히 이백만 달러가 들어있는 가방을 손에 넣는다. 그러나 이 가방을 찾는 또 다른 이가 있었으니 바로 살인마 안톤 시거(하비에르 바르뎀). 그리고 이들의 뒤를 쫓는 보안관 벨(토미 리 존스)까지 합세하면서 누구도 피할 수 없는, 목숨을 건 추격전이 시작된다.",
+      "poster": "https://i.namu.wiki/i/Mca2T4UyX-b4FFVRTV6cTFyD_n4At1D0SIPM_QawGZQkpWw--EzfdLZdlFtoNFzEZ7I5KNAgjO42Xc1Yj5KoiU-3xB_P5CLXx70rMgMpoXKFOqAVGgf7nZSkKirLVDnRcXn2nWIe8jKIeEtNXWLjOW0RjDh7AiebcDnL2PVizBk.webp",
+      "genre": 4
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 24,
+    "fields": {
+      "title": "레전드 (2015)",
+      "description": "“비틀즈와 함께, 60년대 영국의 아이콘이었던 쌍둥이 갱스터 형제!” “레지 크레이 X 로니 크레이의 전설적인 이야기!” 런던의 촌구석 이스트엔드에서 주먹 꽤나 쓰는 쌍둥이 형제로 이름을 날리던 레지 크레이 X 로니 크레이. 한날 한시에 태어났지만 정 반대의 성격을 가진 크레이 형제는 서로를 생각하는 우애만큼은 끈끈하다. 타고난 주먹과 뛰어난 사업 수완으로 마피아와 손잡고 법과 경찰을 피해 세력을 키워나가던 크레이 형제는 어느덧 런던의 밤을 장악하며 유명인사가 되어가지만, 곧 이들 형제에게 위기가 닥친다. 이성적인 형 레지는 연인 프랜시스와의 약속을 지키기 위해 위험한 갱스터 생활을 청산하고, 능력 있는 사업가로 변신해 세력을 확장해 나가려 한다. 하지만 엉뚱하고 무모하기 짝이 없는 통제불능 동생 로니는 자신만의 방식으로 조직을 운영하며 사건 사고를 일으킨다. 매번 조직에 막대한 피해를 입히는 로니에게 점점 인내심을 잃어가는 레지. 자신의 방식을 인정하지 않는 형을 향한 불만을 쌓아가던 로니. 두 형제는 사사건건 부딪히기 시작하고, 급기야 로니는 수습 불가능의 대형 사고를 치고 마는데…",
+      "poster": "https://i.namu.wiki/i/Mca2T4UyX-b4FFVRTV6cTCnRyF8SvHZWFyn0xssrVR3Ip8ItHdm6ZMFRYNICPUqYwhms8bwNA8Q8qY4WBBbgf4i_2Ah6s7M_EH8heAQ_b5YbpOf0qlCPSRZRRFoYT7Ad2H67Y_CqJYoXsuBKkIBCiFRHI0ObdaJzpCvVxGsgjW8.webp",
+      "genre": 4
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 25,
+    "fields": {
+      "title": "해리 포터와 마법사의 돌 (2001)",
+      "description": "해리 포터(다니엘 래드클리프 분)는 위압적인 버논 숙부(리챠드 그리피스 분)와 냉담한 이모 페투니아 (피오나 쇼 분), 욕심 많고 버릇없는 사촌 더즐리(해리 멜링 분) 밑에서 갖은 구박을 견디며 계단 밑 벽장에서 생활한다. 이모네 식구들 역시 해리와의 동거가 불편하기는 마찬가지. 이모 페투니아에겐 해리가 이상한(?) 언니 부부에 관한 기억을 떠올리게 만드는 달갑지 않은 존재다. 11살 생일이 며칠 앞으로 다가왔지만 한번도 생일파티를 치르거나 제대로 된 생일선물을 받아 본 적이 없는 해리로서는 특별히 신날 것도 기대 할 것도 없다. 11살 생일을 며칠 앞둔 어느 날 해리에게 초록색 잉크로 쓰여진 한 통의 편지가 배달된다. 그 편지의 내용은 다름 아닌 해리의 11살 생일을 맞이하여 전설적인“호그와트 마법학교”에서 보낸 입학초대장이었다. 그리고 해리의 생일을 축하하러 온 거인 해그리드는 해리가 모르고 있었던 해리의 진정한 정체를 알려주는데. 그것은 바로 해리가 굉장한 능력을 지닌 마법사라는 것! 해리는 해그리드의 지시대로 자신을 구박하던 이모네 집을 주저없이 떠나 호그와트행을 택한다. 런던의 킹스크로스 역에 있는 비밀의 9와 3/4 승장장에서 호그와트 특급열차를 탄 해리는 열차 안에서 같은 호그와트 마법학교 입학생인 헤르미온느 그레인저(엠마 왓슨 분)와 론 위즐리 (루퍼트 그린트 분)를 만나 친구가 된다. 이들과 함께 호그와트에 입학한 해리는, 놀라운 모험의 세계를 경험하며 갖가지 신기한 마법들을 배워 나간다. 또한 빗자루를 타고 공중을 날아다니며 경기하는 스릴 만점의 퀴디치 게임에서 스타로 탄생하게 되며, 용, 머리가 셋 달린 개, 유니콘, 켄타우루스, 히포그리프(말 몸에 독수리 머리와 날개를 가진 괴물)등 신비한 동물들과 마주치며 모험을 즐긴다. 그러던 어느 날 해리는 호그와트 지하실에 `영원한 생을 가져다주는 마법사의 돌'이 비밀리에 보관되어 있다는 것을 알게되고, 해리의 부모님을 죽인 볼드모트가 그 돌을 노린다는 사실도 알게 된다. 볼드모트는 바로 해리를 죽이려다 실패하고 이마에 번개모양의 흉터를 남긴 장본인이다. 해리는 볼드모트로부터 마법의 돌과 호그와트 마법학교를 지키기 위해 필사의 노력을 하는데...",
+      "poster": "https://i.namu.wiki/i/Mca2T4UyX-b4FFVRTV6cTJ9xQyzJ81p0C_1KJ05WdA5PhgqN3SX_gVfAaBPlWzvJRLWhm0dfaDrlJUmPp8U41mnOWXURqccSThhki5jxh45587xwsj3h7bhVyjUREB-WjHhvRD_WZ8F4tG3qLCqE4LkKctIFDnsluSaWVUVcvIU.webp",
+      "genre": 5
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 26,
+    "fields": {
+      "title": "반지의 제왕: 반지 원정대 (2001)",
+      "description": "모든 힘을 지배할 악의 군주 ‘사우론’의 절대반지가 깨어나고 악의 세력이 세상을 지배해가며 중간계는 대혼란에 처한다. 호빗 ‘프로도’와 그의 친구들, 엘프 ‘레골라스’, 인간 전사 ‘아라곤’과 ‘보로미르’ 드워프 ‘김리’ 그리고 마법사 ‘간달프’로 구성된 반지원정대는 평화를 지키기 위해 절대반지를 파괴할 유일한 방법인 반지가 만들어진 모르도르를 향해 목숨을 건 여정을 떠난다. 한편, 점점 세력을 넓혀온 사우론과의 피할 수 없는 전쟁을 앞둔 반지원정대는 드디어 거대한 최후의 전쟁을 시작하는데...",
+      "poster": "https://i.namu.wiki/i/Mca2T4UyX-b4FFVRTV6cTKv5v55b4LeHWZ1u71Z1mHDULNfyDVaNZnjlVvBWMLLWdIym8zpG40rjWuAQrzStKACqPxCVAjjhmQde3VIncKmtHRg25szriQDnOzgg60qHrhT2J2LvLQv0usx5M39CxIt3zxHq_5YiDmC7WdZMlDQ.webp",
+      "genre": 5
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 27,
+    "fields": {
+      "title": "호빗 : 뜻밖의 여정 (2012)",
+      "description": "호빗족 ‘빌보 배긴스’는 어느 날 갑자기 찾아온 회색의 마법사 ‘간달프’로부터 뜻밖의 제안을 받는다. 오래 전 난쟁이족의 영토였지만 무시무시한 용 ‘스마우그’에게 빼앗겨 지금은 황무지로 변한 동쪽의 ‘외로운 산’ 에레보르 왕국을 되찾기 위해 함께 떠나자는 것. 어쩔 수 없이 전설의 용사 ‘소린’이 이끄는 13명의 난쟁이족과 함께 고블린과 오르크, 흉악한 괴수 와르그, 마법사들과 마주쳐야 하는 위험 가득한 여정에 오른다. 외로운 산에 가기 위해서 반드시 거쳐야 하는 고블린 동굴에서 일행과 떨어져 헤매던 빌보는 그의 일생을 뒤바꿔놓는 존재인 ‘골룸’과 마주치게 되고, 골룸과의 수수께끼 대결 중에 대단한 힘을 지닌 골룸의 보물 ‘절대반지’를 얻게 된다. 험난한 여행의 길에서 빌보는 그 동안 자신도 몰랐던 용기와 능력을 발견하지만, 바로 그 절대반지로 인해 아직 짐작도 못할 중간계의 거대한 운명에 휘말리게 되는데…",
+      "poster": "https://i.namu.wiki/i/Mca2T4UyX-b4FFVRTV6cTODdGvxVjUEAMQh9oDX1RLIeDRrkxFawx5hosXnJHSxSeU7PR4quSmRf4HJIK4CASCqPoC4SZdH-7JmnVrXIVfjddCLXOUKMjicsKFMUNFD-i0tE-sfFWCYhPHXunPuupgc2o9vmcmR6_0TQLTJ8RyY.webp",
+      "genre": 5
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 28,
+    "fields": {
+      "title": "아바타 (2009)",
+      "description": "인류의 마지막 희망, 행성 판도라! 이곳을 정복하기 위한 ‘아바타 프로젝트’가 시작된다! 가까운 미래, 지구는 에너지 고갈 문제를 해결하기 위해 머나먼 행성 판도라에서 대체 자원을 채굴하기 시작한다. 하지만 판도라의 독성을 지닌 대기로 인해 자원 획득에 어려움을 겪게 된 인류는 판도라의 토착민 나비족(Na'vi)의 외형에 인간의 의식을 주입, 원격 조종이 가능한 새로운 생명체 ‘아바타’를 탄생시키는 프로그램을 개발한다. 평범한 삶을 살아가던 전직 해병대원 제이크, 우주의 미래가 걸린 거대한 운명이 그에게 찾아왔다! 한편, 하반신이 마비된 전직 해병대원 ‘제이크 설리(샘 워싱턴)’는 ‘아바타 프로그램’에 참가할 것을 제안 받아 판도라로 향한다. 그곳에서 자신의 ‘아바타’를 통해 자유롭게 걸을 수 있게 된 ‘제이크’는 자원 채굴을 막으려는 나비족(Na'vi)의 무리에 침투하라는 임무를 부여 받는다. 임무 수행 중 나비족(Na'vi)의 여전사 ‘네이티리(조 샐다나)’를 만난 ‘제이크’는 그녀와 함께 다채로운 모험을 경험하면서 ‘네이티리’를 사랑하게 되고, 그들과 하나가 되어간다. 하지만 머지않아 전 우주의 운명을 결정짓는 대규모 전투가 시작되면서 ‘제이크’는 최후의 시험대에 오르게 되는데….",
+      "poster": "https://i.namu.wiki/i/Mca2T4UyX-b4FFVRTV6cTElEoBHT8ANBOxOZL1_lvc8tgZmYNPXrAJybugo-attzTUw67SI7Bsqr-IWbWLxFtydQ9HG8igs9doi-TpN7ReaBxgzoroiegX2Sd0w3eaJOzY51TYGmMLTPfTqfonuHzmBRWEDev5oF-oDmQSsBgd4.webp",
+      "genre": 5
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 29,
+    "fields": {
+      "title": "E.T. (1984)",
+      "description": "어느 한적한 마을의 숲속에 우주선이 나타난다. 우주선에서 내린 외계인들은 지구의 각종 표본들을 채취하던 중 인간들이 나타나자 서둘러 지구를 떠나는데, 그 와중에 뒤쳐진 한 외계인만 홀로 남게 된다. 방황하던 외계인은 한 가정 집에 숨어들고, 그 집 꼬마 엘리어트과 조우하게 된다. 엘리어트은 외계인에게 E.T.(Extra-Terrestrial)란 칭호를 붙여주고 형 마이클과 여동생 거티에게 E.T.의 존재를 밝힌다. 그때부터 삼남매는 엄마의 눈을 속인 채 집안에서 몰래 E.T.를 돌봐준다. 어느새 아이들과 E.T.사이엔 끈끈한 정이 생기고, 특히 엘리어트는 E.T.와 텔레파시로 교감할 정도로 가까워진다. 그러나 E.T.는 자신의 별로 돌아가야할 몸. 그는 아이들의 도움을 받아 집안의 잡동사니로 자신의 별과 교신할 통신장비를 만든다. 그리고 할로윈 축제를 이용해, 우주선이 착륙했던 숲속으로 가서 그곳에 통신장비를 설치하지만, 그만 체력의 급격한 소모로 탈진 상태에 빠지는데...",
+      "poster": "https://i.namu.wiki/i/Mca2T4UyX-b4FFVRTV6cTDUHWbXaS211gQQJHv74bjbQtUVKb3R-7l1RlUjX2sUwesCS-vQdeQnNSPLLeTb3x4vhRVOSw7bm0b9Str1mHbdd42hotbdVME2dNt8IQCRwGyq5C-ULUS4h8LTsT1MWrkt5vPG6w7J4WWQMZ1LJJoA.webp",
+      "genre": 5
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 30,
+    "fields": {
+      "title": "트와일라잇 (2008)",
+      "description": "17세의 평범한 고등학생 소녀 ‘벨라’는 집안 사정으로 워싱턴 주 포크스에 있는 아빠의 집으로 이사를 온다. 전학 첫날, ‘벨라’는 냉담하지만 자신을 무장 해제시킬 정도로 잘생긴 ‘에드워드’와 마주치고, 전율과 두려움 넘치는 인생의 전환을 맞이한다. ‘에드워드’와 돌이킬 수 없는 사랑에 빠져든 ‘벨라’. 하지만 ‘에드워드’와 그의 가족이 뱀파이어 일족이라는 사실을 알게 되고, 예기치 못한 운명에 빠져든다.",
+      "poster": "https://i.namu.wiki/i/Mca2T4UyX-b4FFVRTV6cTCyVCGPZrwIkeVF6k16Mun0PuxpZd0YvTpxywSlCBCETtSoRZWcUu_Suh-zgO4I5G9YhTNHFt3o1ZXtUjZZGqZDlizAHMOENkC4Re827bleJ61JiUvBQJXtaHCjyBWwiWvkZTdOJdq2fV8nP7NjIR0Q.webp",
+      "genre": 5
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 31,
+    "fields": {
+      "title": "컨저링 (2013)",
+      "description": "1971년 로드 아일랜드, 해리스빌. 페론 가족은 꿈에 그리던 새 집으로 이사를 간다. 물론 1863년에 그 집에서 일어난 끔찍한 살인 사건을 전혀 몰랐다. 또한 그 이후에 일어난 많은 무서운 사건에 대해서도 알지 못했다. 이 가족은 그 집에서 겪은 일이 너무 무서워서 한 마디라도 외부에 언급하는 것을 거절했었다. 지금까지는… [스페셜 영상 1] 영화 속 숨겨진 뒷이야기 (00:08:02) [스페셜 영상 2] 악마의 생활 (00:15:38) 유명한 귀신연구자와 초자연적인것의 전문가 로렌 워렌과 함께하는 여행, 그녀가 주최하는 묘지투어와 수천개의 위험한 유물들이 모여있는 악마의 집, 오컬트 셀러를 방문한다 [스페셜 영상 3] 공포와 대면 (00:06:37) 그들이 대략 십년 동안 악마의 영혼과 같이 살았던 불가사의한 농가에서 페론 가족들은 되돌아 왔고 그들은 그 기억을 떠올릴 때마다 그 공포를 다시 체험한다.",
+      "poster": "https://i.namu.wiki/i/GMsTvROftYGgZhe62DteTh3dqBgTmP66GJhMBpuB3CVVqBv9GdztXWTeDRnc8_WIaWx6pT82HAg5SOZzZs270qbOIy1BlGQw2kUYdnTJHoXxZ8IUPovSqorfBdTl1EkPpNlvuwSVYitFt8zs7Ck9wdz81gV74_Aof7-IVbia-8U.webp",
+      "genre": 6
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 32,
+    "fields": {
+      "title": "파라노말 액티비티 (2010)",
+      "description": "8살 때부터 자신의 주위를 맴돌던 정체불명의 존재를 느껴왔던 케이티. 최근 들어 점점 더 강도가 심각해지는 이상한 사건들로 인해 그녀의 남자친구 미카는 그들의 24시간을 카메라에 담기 시작한다. 촬영이 시작된 이후 문이 스스로 움직이고 벽의 액자가 저절로 깨지는 등 이상한 현상들이 녹화되기 시작하고, 정체 불명의 존재를 찾기 위해 노력한다. 미카는 정체 불명의 대상을 불러내기 위해 케이티의 반대에도 불구하고, 다양한 방법을 시도하며 촬영을 멈추지 않는다. 그들이 잠든 사이에 의문의 발자국이 침실에 남겨지고, 자고 있는 케이티가 사라지는 등 이상한 일들이 연이어 벌어지는 가운데, 계속되는 고통으로 잠을 이루지 못하는 케이티는 퇴마사를 부르기에 이른다. 하지만, 섬뜩한 기운을 느낀 퇴마사는 집안에 발을 들이는 것조차 두려워하며 돌아가고 만다. 시간이 지날수록 설명하기 조차 힘든 미스터리한 사건들은 두 사람을 위협하기 시작하는데…",
+      "poster": "https://i.namu.wiki/i/GMsTvROftYGgZhe62DteTkyhdJUak0JeK7kQVzG4ne3aHrscJw17lUG--iHDzIVL2W_TY5G1IA_Sb6pEvTX6F9Nh6TgJYdb55RCS-WXa4AcknxX1Yjc8_LhKKyOjOriJlpYHQnTNpatHU_HRcFxcfTxPceAYxhBM1nAN7PwWyH4.webp",
+      "genre": 6
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 33,
+    "fields": {
+      "title": "주온 (2002)",
+      "description": "주원(呪怨). 죽은 자의 저주. 그것은 죽은 자가 생전에 살던 장소에 쌓여 '업'이 된다. 한 남자가 부인을 살해하고 본인도 죽은 채로 발견되었다. 그리고 그들에겐 아들이 하나 있었다. 그리고.. ‘理佳: Rika(리카)’. 자원봉사자인 여대생 니시나 리카(오키나 메구미 분)는 병든 노파 사치에 유키에를 간호하러 집으로 찾아갔다가 그 집에 감도는 불길한 기운을 감지한다. 어수선하고 폐허같은 집, 노파는 아프다기보다는 뭔가에 홀린 듯 보이고, 그리고 테이프로 굳게 봉인되어 있는 옷장에선 검은 고양이와 의문의 남자 아이가 나타났다 사라진다. 곧이어 노파는 무언가에 홀린 듯 중얼거리다 갑자기 검은 그림자에 휩싸여 죽고 리카는 정신을 잃고 만다. 원한으로 죽어 저주로 살아난 집, 이제 그 집에 한 번이라도 방문한 사람은 모두 끔찍한 죽음을 맞을 수 밖에 없게 되는데. ‘勝也: Katsuya(카츠야)’. 그 일이 있기 며칠 전, 유키에 할머니의 아들 카츠야(츠다 칸지 분)는 2층 침실에서 아내 카즈미(마츠다 슈리 분)가 쓰러져 있는 걸 발견하는데, 이 집으로 이사 오고 난 후부터 아내는 불길한 일들을 계속 겪고 있었다. 카츠야도 집 안에서 하얀 얼굴의 여인을 목격하고 정신이 나가버린다. 이때 병든 엄마가 걱정된 카츠야의 여동생 히토미(이토 미사키 분)가 집에 찾아오지만, 오빠 카츠야는 알 수 없는 말을 하며 히토미를 집에서 쫓아내버린다. ‘仁美: Hitomi(히토미)’. 그 집을 방문한 이 후, 히토미에게도 불길한 일들이 시작된다. 그녀가 근무하는 회사 화장실이나 복도, 그리고 엘리베이터에서 정체불명의 유령을 목격하기도 하고, 그 유령이 경비원을 죽이는 걸 보게 된다. 공포에 질려 집으로 돌아온 히토미는 오빠의 전화를 받지만, 또다시 자신이 누운 침대 이불 속에서 흰 얼굴의 여자가 접근해 오는데. ‘遠山: Toyama(토오야마)’. 리카로부터 연락이 끊긴 이후, 그녀에게 할머니 집의 방문을 부탁했던 복지센터 직원 히로시가 직접 할머니를 찾아온다. 그는 그곳에서 손가락으로 눈을 가린 채 숨이 멈춰가는 유키에에 할머니와 그 옆에서 넋을 놓고 있는 리카를 발견한다. 경찰의 수사가 시작되고, 이 집의 천장에서 할머니 아들 카츠야와 며느리 카즈미 부부의 사체가 발견된다. 사건을 맡은 형사 나카가와(이노우에 히로카즈 분)는 조사 결과, 이 집에서 과거에도 의문의 사상자와 실종자가 속출하였다는 사실을 알게 된다. 모든 사건의 발단은 5년 전, 그 집에 살고 있던 사에키 다케오(마츠야마 다카시 분)란 남자가 아내 카야코(후지 다카코 분)를 죽이고 자신도 같이 죽어있는 것을 근처 주민에 의해 발견되면서부터. 당시 6살이었던 아들 토시오(오제키 유야 분)는 행방불명되었다. 나카가와 형사는 당시 사건을 담당했지만 지금은 퇴직한 토오야마 류지(다나카 요지 분)를 찾아가는데, 그는 딸 이즈미와 함께 왠지 모를 불안감을 느낀다. 한편, 복지센터 직원인 히로시는 복지센터 싱크대 밑에 죽어있는 채로 발견된다. 경찰에 출두한 토오야마는 계속되는 의문의 죽음과 CCTV에 녹화된 귀신의 존재를 알고, 불을 지르려 문제의 집을 방문하는데... ‘いづみ: Izumi(이즈미)’. 몇년의 흐른 뒤, 고등학생이 된 토오야마의 딸 이즈미는 왠지 모를 공포감을 느끼기 시작한다. 그녀는 창문 빛을 모두 가리는 등 아버지의 죽기전 모습과 비슷한 현상을 나타내는데, 이때 수학여행 때 실종됐던 세 친구의 귀신이 자신에게 다가온다. ‘伽椰子: Kayako(가야코)’. 리카는 친구이자 학교 선생인 마리코의 전화를 받는데, 그녀가 학교를 나오지 않는 반 아이 토시오의 집을 방문해 있다는 사실을 알고 급히 달려간다.",
+      "poster": "https://i.namu.wiki/i/2GEmNHA0IvdH1rmplqLfD1jgO3i6MXPEFrewPURAsk5AChWWfRp3Thr9-d2ZhVu6pYyS09EdjwmX2kkDYmmPQg.webp",
+      "genre": 6
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 34,
+    "fields": {
+      "title": "엑소시스트 (1975)",
+      "description": "노신부 메린(Father Merrin: 막스 본 시도우 분)은 이라크 북부(Northern Iraq)에서 고분을 발굴하다 이상한 조각을 발견한다. 악마를 상징하는 그 조각에 노신부는 불안해 한다. 한편, 미국 조지타운에 사는 인기 여배우 크리스 멕넬(Chris MacNeil: 엘런 번스타인 분)는 어느 날 밤 딸 레건(Regan MacNeil: 린다 블레어 분)의 방에서 이상한 소리를 듣고 쥐가 있는 것 같다며 운전 기사 칼(Karl: 루돌프 쉰들러 분)에게 쥐덫을 놓도록 한다. 이어 딸 레건에게서 이상한 증세가 나타나기 시작하자 크리스는 레건을 데리고 병원을 전전하지만 병명조차 알아내지 못한 채 증세는 점점 악화된다. 그 와중에 크리스의 애인이 레건을 간호하던 중 변사체로 발견되는가 하면 조그맣고 귀엽던 레건의 얼굴이 무섭고 흉측한 악령의 모습으로 변하며 \"그리스도가 나를 범하고 있다\"라고 외치며 자해를 하는 사건이 연이어 벌어진다. 크리스는 지푸라기라도 잡는 심정으로 젊은 카라스 신부(Father Damien Karras: 제이슨 밀러 분)를 찾아가 악마를 내쫓는 엑소시즘 의식을 부탁한다. 결국 카라스 신부는 엑소시즘의 경험이 있는 노신부 메린에게 도움을 청하고 둘은 레건에게서 악령을 몰아내는 의식을 집행하기에 이른다. 그러나 악령은 쉽게 물러나지 않고, 악마와 메린 신부의 처절한 사투가 시작되는데…",
+      "poster": "https://i.namu.wiki/i/GMsTvROftYGgZhe62DteTpniDNrtOXawH0FwweT0wvHnUkoFDsCySRv5f08_RtwENqcA2EUaLyuN7vfI4J9eBTz9yX6VQvaFKkihLK0llGdOEs5F1BQ21o4dzl59tedQSNbAbmrBTdHbsS0KPoUlH-oC3k2vh6tKTMf8wf4LjNw.webp",
+      "genre": 6
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 35,
+    "fields": {
+      "title": "파묘 (2024)",
+      "description": "미국 LA, 거액의 의뢰를 받은 무당 ‘화림’(김고은)과 ‘봉길’(이도현)은 기이한 병이 대물림되는 집안의 장손을 만난다. 조상의 묫자리가 화근임을 알아챈 ‘화림’은 이장을 권하고, 돈 냄새를 맡은 최고의 풍수사 ‘상덕’(최민식)과 장의사 ‘영근’(유해진)이 합류한다. “전부 잘 알 거야… 묘 하나 잘못 건들면 어떻게 되는지” 절대 사람이 묻힐 수 없는 악지에 자리한 기이한 묘. ‘상덕’은 불길한 기운을 느끼고 제안을 거절하지만, ‘화림’의 설득으로 결국 파묘가 시작되고… 나와서는 안될 것이 나왔다.",
+      "poster": "https://i.namu.wiki/i/GMsTvROftYGgZhe62DteTtnBE7fV34CrbnQ1Z62EDcXkD3rFoEpk0o0BYvXSlnGc453K8ZzvaC2Qt7n6GbRJUjBoH0xqt3GgrasG-4Tm1jCdXQeqEdDEx8Ow9KcTPWsGnqMzdxNepl5YEz2LJyMC8F0lrVCdZfk8J2BTAunT2SY.webp",
+      "genre": 6
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 36,
+    "fields": {
+      "title": "곡성 (2016)",
+      "description": "낯선 외지인(쿠니무라 준)이 나타난 후 벌어지는 의문의 연쇄 사건들로 마을이 발칵 뒤집힌다. 경찰은 집단 야생 버섯 중독으로 잠정적 결론을 내리지만 모든 사건의 원인이 그 외지인 때문이라는 소문과 의심이 걷잡을 수 없이 퍼져 나간다. 경찰 ‘종구’(곽도원)는 현장을 목격했다는 여인 ‘무명’(천우희)을 만나면서 외지인에 대한 소문을 확신하기 시작한다. 딸 ‘효진’(김환희)이 피해자들과 비슷한 증상으로 아파오기 시작하자 다급해진 ‘종구’. 외지인을 찾아 난동을 부리고, 무속인 ‘일광’(황정민)을 불러들이는데...",
+      "poster": "https://i.namu.wiki/i/GMsTvROftYGgZhe62DteTuCySfGJ82a_wRsosTpE8bkACUro8MaIF8RGqc74hkemFuhunL6ZlV3g6YoPKbCIRUaKAnKjPjTnbf3zoCSi5pY23HW7DEQHx026HXf7Hm7xItyV9BiIYs-59SC5ODRZwZh5PXzz9pyvHyoIoRYCIuA.webp",
+      "genre": 6
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 37,
+    "fields": {
+      "title": "노트북 (2004)",
+      "description": "\"영혼을 바쳐 한 사람을 사랑했고, 그것만으로도 성공한 인생입니다\" 노아(라이언 고슬링)는 여름 휴가를 맞아 잠시 시골로 내려온 밝고 아름다운 부잣집 아가씨 앨리(레이첼 맥아담스)에게 한 눈에 반한다. 서로에게 빠르게 빠져들어 뜨거운 여름을 보내는 두 사람. 그러나 너무나 다른 가정 환경으로 인해 강렬했던 노아와 앨리의 첫사랑은 이별을 맞는다. 시간이 흐른 후, 여전히 서로를 가슴속에 묻은 채 살던 두 사람은 우연히 재회하게 된다. 그러나 앨리의 곁엔 결혼을 약속한 완벽한 약혼자가 있는데...",
+      "poster": "https://i.namu.wiki/i/GMsTvROftYGgZhe62DteThtfqt7UW5L5Q-eK_opXLNK1r2RleDbf1W5iLVuiB0NZuis6cWIHHHL0sBCGB8zh0x1jG3dPfg3vNpfRxezWuRyIGoOWuECkWhKtynVfuplYwHyWEx4R7U_2yQKk5J2_xpV9EzS6QnolSl1-2r9EuuY.webp",
+      "genre": 7
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 38,
+    "fields": {
+      "title": "어바웃 타임(2013)",
+      "description": "모태솔로 팀(돔놀 글리슨)은 성인이 된 날, 아버지(빌 나이)로부터 놀랄만한 가문의 비밀을 듣게 된다. 바로 시간을 되돌릴 수 있는 능력이 있다는 것! 그것이 비록 히틀러를 죽이거나 여신과 뜨거운 사랑을 할 수는 없지만, 여자친구는 만들어 줄 순 있으리.. 꿈을 위해 런던으로 간 팀은 우연히 만난 사랑스러운 여인 메리에게 첫눈에 반하게 된다. 그녀의 사랑을 얻기 위해 자신의 특별한 능력을 마음껏 발휘하는 팀. 어설픈 대시, 어색한 웃음은 리와인드! 뜨거웠던 밤은 더욱 뜨겁게 리플레이! 꿈에 그리던 그녀와 매일매일 최고의 순간을 보낸다. 하지만 그와 그녀의 사랑이 완벽해질수록 팀을 둘러싼 주변 상황들은 미묘하게 엇갈리고, 예상치 못한 사건들이 여기저기 나타나기 시작하는데… 어떠한 순간을 다시 살게 된다면, 과연 완벽한 사랑을 이룰 수 있을까?",
+      "poster": "https://i.namu.wiki/i/GMsTvROftYGgZhe62DteTi3xL9x0OrKvH1-OgUQuk1xgvwUKn_DKbrAH2QU5ar3TJtIRWG0v49DXxE670vSteT5L5d2SlJNBuLCczXeTEZ80DrVFaLopDgjF4MK5lDf5pLjelvQavs8dPUkml7VFe3XuNGT-XJ-A317n_NtizLU.webp",
+      "genre": 7
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 39,
+    "fields": {
+      "title": "이터널 선샤인 (2005)",
+      "description": "조엘은 아픈 기억만을 지워준다는 라쿠나사를 찾아가 헤어진 연인 클레멘타인의 기억을 지우기로 결심한다. 기억이 사라져 갈수록 조엘은 사랑이 시작되던 순간, 행복한 기억들, 가슴 속에 각인된 추억들을 지우기 싫어지기만 하는데... 당신을 지우면 이 아픔도 사라질까요? 사랑은 그렇게 다시 기억된다.",
+      "poster": "https://i.namu.wiki/i/GMsTvROftYGgZhe62DteToY72SMzVWSRIY7brVBNSxa0n7-gGbq__-Vs4Ya6IHXiBT33qRV53quh7ryQhXc7olLmoMRw-DG7daBjtA4eXBoMANdnRHBTFzhasFmZNLhESpeQX6-jqy-kGnsO-aQlrnz9RweLX_qq20wyo1A8S44.webp",
+      "genre": 7
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 40,
+    "fields": {
+      "title": "노팅 힐 (1999)",
+      "description": "세계적인 스타이자 지구상에서 가장 아름다운 여자 ‘애나 스콧’ 런던의 노팅 힐에서 여행 전문 서점을 운영하는 남자 ‘윌리엄 태커’ 아주 평범한 사랑을 기다리는 그녀와 너무 특별한 사랑이 두려운 그의 꿈 같은 로맨스가 다시, 시작된다! 여기 노팅 힐에서…",
+      "poster": "https://i.namu.wiki/i/GMsTvROftYGgZhe62DteTtoM7YSDgql4RZQq63r_VoRL2C8C0oW7RJzlR12DT6DfPsgh1IUN48mJz0QkxXNXKIITE176mq5DYSmRFxOpi8XL8NOZ2X-34xCFBN_qrWqP-NRJ2Pof19w0esvZ1amqiy31TWB4pIvgDLySp3XL-aY.webp",
+      "genre": 7
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 41,
+    "fields": {
+      "title": "라라랜드 (2016)",
+      "description": "꿈을 꾸는 사람들을 위한 별들의 도시 ‘라라랜드’. 재즈 피아니스트 ‘세바스찬’(라이언 고슬링)과 배우 지망생 ‘미아’(엠마 스톤), 인생에서 가장 빛나는 순간 만난 두 사람은 미완성인 서로의 무대를 만들어가기 시작한다.",
+      "poster": "https://i.namu.wiki/i/GMsTvROftYGgZhe62DteTiRnJSPAVrdJx14h3PIqmiZGAMYt52kZbtAfz8EeNdHaXR2Ew1LFrxlmUfC3YQNeVjZ8_4hFKewhQj9m0RGA7XxhDcW1hUy0S5jor7fBVajhalhBzjrfHq6gifCAWSM8QncQJT6BXkhlCgrPSnIu6LI.webp",
+      "genre": 7
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 42,
+    "fields": {
+      "title": "엽기적인 그녀 (2001)",
+      "description": "‘전반전’. 그녀와 저는 같은 문으로 함께 인천행 지하철을 타게 되씀미다. 취해서 비틀거리지만 안는다면 정말 매력저기고 갠차는 아가씨여쪄... 푸하하핫! 진짜 특이하다! 저는 그녀가 술에 취해서 배를 기대고 서있는 모습이 귀여워서 힐끔거리며 그녀를 계속 지켜보아씀미다. 그런데 몸을 미세하게 부르르 떨던 그녀가 왠지 불안해 보이더니만 마침내 우웨에엑~~~ 우웨엑~~ 좌르르르르~~~ 네, 그러씀미다! 그녀가 앞에 앉아 이떤 대머리 아저씨 머리 위에 순식간에 일을 친 거시여씀미다!! 순간 지하철안은 아수라장이 되고 절라 재미는 상황이었져. 진짜 일은 거기서부터 터지고야 말아씀미다. 오바이트를 시원하게 하던 그녀가 게슴치레한 눈빛으로 저를 보며 이러는 검미다! 자기야!~ 어어억~ 우욱~ 자기~ 웩~! 쿵... 이 여자 좋은 느낌이 듬니다. 원래 그러치안은데 실연의 아픔이 너무나 큰 것 가씀미다. 괜히 불쌍한 마음이 듬미다. 제 마음 어디에선가 싸늘한 바람이 부는 것도 가씀미다. 그래, 이 여자의 아픔을 한번 치료해보자!! 강물 깊이가 궁금하면 가차업시 물 속으로 떠밀어버리는 여자! 그러나 정신업시 허우적대는 저를 위해서 물 속으로 뛰어들쭐도 아는 여자... 그녀의 생일, 얼렁뚱땅 너머가면 살해할찌도 모를 여자! 그러나 일촉즉발 인질로 잡혀있던 나를 목숨걸고 구해주며 기막힌 감동을 먹일쭐도 아는 여자! ‘후반전’. 요즘은 그녀가 참 많이 우씀미다. 해맑게 웃는 그녀를 보고 있으면 제 마음도 한 없이 행복해짐미다. 지금까지 제가 힘이 되어주었는지 자신이 업씀미다. 제가 그녀를 감싸준것도 그녀에게 보여준 것도 또 그녀를 치료한 적도 없는 것 가씀미다. 이제 그녀 곁을 떠날 때가 점점 가까워지는 것을 느낌미다. 그리고 오늘 타임캡슐에 서로의 마음을 담고 타이머를 2년 후에 맞춰씀미다. 이 캡슐이 열리는 날! 서로의 마음을 확인할 껌미다. 그렇게 그녀는 헤어지자는 말을 대신했슴미다. ‘연장전’. 오늘 헤어지고 내일 만나는 것처럼 우리는 지금 헤어지고 분명히 다시 만날 것임미다. 다만 오늘과 내일처럼 가까운 시간이 아닐 뿐... 믿슴미다.",
+      "poster": "https://i.namu.wiki/i/GMsTvROftYGgZhe62DteTl_NXU7ZgrAYqY7Tr2tf7jS3VoxZO1nqU6ih7ozAXbIdbXDp-yKd4_gSSvgmWiQn-_w2tUakHueOueRjHj7OGu-hx7Icrf_plk85ISkQb0SI9JSqpAkXGSpvaPR7nm_fNgbBOIUbM4gAErozIlBj9CI.webp",
+      "genre": 7
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 43,
+    "fields": {
+      "title": "인셉션 (2010)",
+      "description": "타인의 꿈에 들어가 생각을 훔치는 특수 보안요원 코브. 그를 이용해 라이벌 기업의 정보를 빼내고자 하는 사이토는 코브에게 생각을 훔치는 것이 아닌, 생각을 심는 ‘인셉션’ 작전을 제안한다. 성공 조건으로 국제적인 수배자가 되어있는 코브의 신분을 바꿔주겠다는 거부할 수 없는 제안을 하고, 사랑하는 아이들에게 돌아가기 위해 그 제안을 받아들인다. 최강의 팀을 구성, 표적인 피셔에게 접근해서 ‘인셉션’ 작전을 실행하지만 예기치 못한 사건들과 마주하게 되는데… 꿈 VS 현실 시간, 규칙, 타이밍 모든 것이 완벽해야만 하는, 단 한 번도 성공한 적 없는 ‘인셉션’ 작전이 시작된다!",
+      "poster": "https://i.namu.wiki/i/GMsTvROftYGgZhe62DteTgkG0F8dmd5FNJNw8FWygalTvlXWOAFsxOw9Fxav9u54QqE8MYffYEHwFhhupC_23BrIXDL1ARgmdtzOsMgMHG45pCF1xSbs6jzwTvPGHJ3vvxS0kQIAcowLomklPZLUlVhTv4qq1ubjVzq4nzo1LSs.webp",
+      "genre": 8
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 44,
+    "fields": {
+      "title": "인터스텔라 (2014)",
+      "description": "세계 각국의 정부와 경제가 완전히 붕괴된 미래가 다가온다. 지난 20세기에 범한 잘못이 전 세계적인 식량 부족을 불러왔고, NASA도 해체되었다. 이때 시공간에 불가사의한 틈이 열리고, 남은 자들에게는 이 곳을 탐험해 인류를 구해야 하는 임무가 지워진다. 사랑하는 가족들을 뒤로 한 채 인류라는 더 큰 가족을 위해, 그들은 이제 희망을 찾아 우주로 간다. 그리고 우린 답을 찾을 것이다. 늘 그랬듯이…",
+      "poster": "https://i.namu.wiki/i/GMsTvROftYGgZhe62DteTvHs-W8v1p1YFtIYaIU7rR4nyMbHtQ9MUx99OZbrucxcLYcZL6tVs6kDr8PzJC2gBKitgwMRm1ud0rzJzUjsJQUo4521PDUrwnOkMx0nrsWQow7ZN5uCfh-6ceukKVCqmkhyBCxEg-OYlCii6m4rg_w.webp",
+      "genre": 8
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 45,
+    "fields": {
+      "title": "매트릭스 (1999)",
+      "description": "인간의 기억마저 AI에 의해 입력되고 삭제 되는 세상.진짜보다 더 진짜 같은 가상 현실 ‘매트릭스’ 그 속에서 진정한 현실을 인식할 수 없게 재배되는 인간들. 그 ‘매트릭스’를 빠져 나오면서 AI에게 가장 위험한 인물이 된 '모피어스’는 자신과 함께 인류를 구할 마지막 영웅 ‘그’를 찾아 헤맨다. 마침내 ‘모피어스’는 낮에는 평범한 회사원으로, 밤에는 해커로 활동하는 청년 ‘네오’를 ‘그’로 지목하는데… 꿈에서 깨어난 자들, 이제 그들이 만드는 새로운 세상이 열린다!",
+      "poster": "https://i.namu.wiki/i/GMsTvROftYGgZhe62DteTsC7YBLotDbHB3RkuAtGGVLEDwCbI90EPuFVzoFFd2rTHuY4Wdo0N4l-YT52oL5SrDcBZsoSxWlYpOHj4XrrJs-9Jm7rLvDHDl4H6gijc3_uCBHgfRTDm6Er3Dz394a_v9KcV4kNAbBW_4JWQoiXBk8.webp",
+      "genre": 8
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 46,
+    "fields": {
+      "title": "레디 플레이어 원 (2018)",
+      "description": "2045년, 암울한 현실과 달리 가상현실 오아시스(OASIS)에서는 누구든 원하는 캐릭터로 어디든지 갈 수 있고, 뭐든지 할 수 있고 상상하는 모든 게 가능하다. 웨이드 와츠(타이 쉐리던) 역시 유일한 낙은 대부분의 사람들이 하루를 보내는 오아시스에 접속하는 것이다. 어느 날 오아시스의 창시자인 괴짜 천재 제임스 할리데이(마크 라이런스)는 자신이 가상현실 속에 숨겨둔 3개의 미션에서 우승하는 사람에게 오아시스의 소유권과 막대한 유산을 상속한다는 유언을 남기고, 그가 사랑했던 80년대 대중문화 속에 힌트가 있음을 알린다. 제임스 할리데이를 선망했던 소년 ‘웨이드 와츠’가 첫 번째 수수께끼를 푸는 데 성공하자 이를 저지하기 위해 현실에서 살인도 마다하지 않는 ‘IOI’라는 거대 기업이 뛰어든다. 모두의 꿈과 희망이 되는 오아시스를 지키기 위해서는 반드시 우승해야 한다! 그리고 우승을 위해서는 가상현실이 아닌 현실세계의 우정과 사랑의 힘이 필요하기만 한데…",
+      "poster": "https://i.namu.wiki/i/GMsTvROftYGgZhe62DteTpclRDzuDgsMyquz_ZXg6RK3qW0RjE0FVHgVLuKwZgm0M7hwz22-EKUpCqFIkRyvsCJsN4QysEwwHzSNNJqViMEgOzUgflQD1ath0fBZ0bRr8j7UZ7x2aM8BZoDdAMXnsK2hN24dBXBpoox8eHmfo18.webp",
+      "genre": 8
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 47,
+    "fields": {
+      "title": "맨 인 블랙 (1997)",
+      "description": "미국은 멕시코와 국경지대. 언제나 국경을 몰래 넘나드는 멕시코 난민들 덕에 국경지대 경찰은 늘 골치를 썩는다. 늦은 밤, 역시 멕시코 난민을 실은 차량이 넘어오고 경찰이 수색을 시작하려 할 때, 한 대의 검은색 차량이 급히 다가선다. 검은 차에서 내린 검은 선글라스, 검은 양복, 검은 넥타이, 검은 구두로 치장한 그들은 일급 국가 비밀 조직인 MIB(Men In Black). 그들은 온 몸을 블랙으로 치장한 채 지구에 장착한 외계인을 감시하고 방어하는 미연방 일급 기밀 조직으로 그들의 임무는 지구인으로 위장한 불법 이민 외계인을 가려내는 것이다. MIB는 그들의 조직원을 제외하고는 외부인에게는 완전히 베일에 가려진채, 지금껏 이민 외계인을 감시하고 불법 거주자를 방어하며 평화를 성공적으로 지켜왔다. 한편 이민 외계인들은 철저히 지구인의 모습으로 살아가기 때문에 다른 사람들은 전혀 눈치를 못채고 있었다. MIB의 유능한 형사 K(Agent K: 토미 리 존스 분)는 은하계에서 날로 증가하는 지구 이민 외계인들을 감시하는 베테랑. MIB는 외계인들의 정체가 혹시라도 지구인에게 들어날 경우, 기억 말소 장치를 사용해 일반인들에게 철저히 외계인 추적을 방지하고 있었다. 그러나 뜻하지 않게 전쟁 중인 은하계에서 평화 회담차 온 두 외교 대사가 암살당하는 사건이 발생한다. 신참 J(Agent J, James Edwards: 윌 스미스 분)와 K는 외계인 정보 수집가들의 도움을 요청하여 외계인 무법사 에드가(Edgar: 빈센트 도노프리오 분)의 사악한 외계인들이 두 은하계의 평화를 방해하고 있음을 알아낸다. 또한 양 은하계의 분쟁의 대상은 보석 속에 존재하는 작은 소우주 라는 것도 알게 된다. 엄청난 위력을 가진 이 작은 소우주를 찾기위해 J와 K는 뉴욕시 의료 검사관인 닥터 로웰(Agent L, Dr. Laurel Weaver: 린다 피오렌 티노 분)의 도움으로 이 작은 소행성을 찾기 위해 필사의 노력을 펼치지만 벌써 에드가의 손아귀에 들어가 버린 상태. 게다가 거대한 본 모습을 드러낸 에드가는 K를 집어 삼키고 마는데.",
+      "poster": "https://i.namu.wiki/i/GMsTvROftYGgZhe62DteTi2MijlWO94bMaj3JI71PexMXHhcobb5Dyiq0q1hvTaXaQj4ijGm-LFRnib24s6OPsT7XkpXOOKUcLORht91zlmcDzM7QHto-2DIy8VlZWA1mU7lv1jAIV_7yYtXThH4FfiHBA8BNRyYASVgh9m2BlU.webp",
+      "genre": 8
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 48,
+    "fields": {
+      "title": "마이너리티 리포트 (2002)",
+      "description": "2054년 워싱턴, 범죄가 일어나기 전 범죄를 예측해 범죄자를 단죄하는 최첨단 치안 시스템 프리크라임은 시민들의 안전을 지켜주는 든든한 존재이다. 프리크라임 시스템은 범죄가 일어날 시간과 장소, 범행을 저지를 사람까지 미리 예측해내고, 이를 바탕으로 프리크라임 특수경찰이 미래의 범죄자들을 체포한다. 프리크라임 팀장인 존 앤더튼(톰 크루즈)은 천부적인 감각으로 미래의 범죄자를 추적해내는 능력을 인정받고 있다. 그가 프리크라임에 최대한의 열정을 기울이는 것은, 6년전 자신의 아들을 잃은 아픈 기억을 다른 사람에게만은 되풀이하고 싶지 않기 때문이다. 한편, 앤더튼은 프리크라임 감사를 위해 연방정보국에서 파견된 대니 워트워(콜린 파렐)와 사사건건 대치하는 가운데 프리크라임 시스템은 믿을 수 없는 살인을 예견한다. 그것은 바로 앤더튼 자신이 누군가를 살해하는 범행 장면. 이제 프리크라임의 모든 시스템이 앤더튼을 추격한다. 앤더튼은 음모를 파헤치기 위해, 미래를 바꾸기 위해 직접 미래의 피살자를 찾아나선다. 자신이 저지를 범죄 현장에 한 발짝씩 다가갈수록 앤더튼 앞에는 믿을 수 없는 사실들이 드러나고, 앤더튼의 의지와는 상관없이 예견된 희생자가 나오는데. 이제 그의 미래는 돌이킬 수 없는 것이 되고 마는가...",
+      "poster": "https://i.namu.wiki/i/GMsTvROftYGgZhe62DteTl2svQkEW7LmLpmpR-Ip1OpevCsujF0S2xk5khtInYG9PQE8wFJ7rfT7xLr0lGKupV1hOIlKVc-M1eLx7jqdFKjSfw9_3Y-1b6xMzsE-IMbTyq0GwjAb999cfbp5XGJoUiIHmE3GcpyC02TfvU72h9A.webp",
+      "genre": 8
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 49,
+    "fields": {
+      "title": "싸이코 (1960)",
+      "description": "회사원인 마리오(쟈넷 리 분)는 그녀의 애인 샘(존 개빈 분)과 결혼하길 원하지만 샘은 빚을 갚을 때까지 기다리라고 말한다. 그래서 그녀는 자신이 다니고 있는 회사 사장이 은행에 입금하라고 맡긴 돈을 들고 도망친다. 돈을 가지고 샘을 만나러 떠난 그녀는 도주 첫날 밤 도로변에 있는 낡은 모텔에 묵게 된다. 모텔의 주인인 노만 베이츠(앤소니 퍼킨스)는 그녀에게 친절하게 대해주며 자신은 모텔 바로 뒤쪽 빅토리아풍의 큰 저택에서 몸이 불편한 어머니와 함께 살고 있다고 말한다. 잠자리에 들기 전, 마리온이 샤워를 하는 도중, 난데없이 검은 형상이 욕실에 나타나고 마리온은 실종된다. 실종된 마리온을 찾기 위해 그녀의 언니 릴라와 샘, 그리고 보험회사 측에서 고용한 탐정인 아보가스트 등 세 사람이 추적에 나선다. 아보가스트는 조사 끝에 그녀가 머물렀던 모텔을 찾게 되는데...",
+      "poster": "https://i.namu.wiki/i/B6rpb31l05ZrQ4cpAWBqpTanPqxEIJuqOGQ5FHnP0BCH5PHGip4IfzewvUz8ptYlDnQFROizb7yhoUfWjh5PzC5OKNhPEMOtjxP-mwSUHZRSOx03UpSSXdWiF7ppZ-YEzqUNAD7vX_XUfyvGGRaKlVlgmw8RpaFt5VcG-6bDBao.webp",
+      "genre": 9
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 50,
+    "fields": {
+      "title": "올드보이 (2003)",
+      "description": "https://i.namu.wiki/i/B6rpb31l05ZrQ4cpAWBqpTanPqxEIJuqOGQ5FHnP0BCH5PHGip4IfzewvUz8ptYlDnQFROizb7yhoUfWjh5PzC5OKNhPEMOtjxP-mwSUHZRSOx03UpSSXdWiF7ppZ-YEzqUNAD7vX_XUfyvGGRaKlVlgmw8RpaFt5VcG-6bDBao.webp",
+      "poster": "https://i.namu.wiki/i/B6rpb31l05ZrQ4cpAWBqpahUbo_5Da8sI924uAWCnEC5WbtU9hPUry2pceJH3cPFc08RIVz0fdvaUn6W2lhfim7X7bUuz9lIkO_N2zcVMszRE8-6gHs6x0UJHZ4wAxYJlx4r7ryMLRiA4EVinyvKQX9RWMuGwi-QZRT6DSm_4Q0.webp",
+      "genre": 9
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 51,
+    "fields": {
+      "title": "기생충 (2019)",
+      "description": "전원백수로 살 길 막막하지만 사이는 좋은 기택(송강호) 가족. 장남 기우(최우식)에게 명문대생 친구가 연결시켜 준 고액 과외 자리는 모처럼 싹튼 고정수입의 희망이다. 온 가족의 도움과 기대 속에 박사장(이선균) 집으로 향하는 기우. 글로벌 IT기업 CEO인 박사장의 저택에 도착하자 젊고 아름다운 사모님 연교(조여정)가 기우를 맞이한다. 그러나 이렇게 시작된 두 가족의 만남 뒤로, 걷잡을 수 없는 사건이 기다리고 있었으니…",
+      "poster": "https://i.namu.wiki/i/B6rpb31l05ZrQ4cpAWBqpVtX1jfXEHI9zr614ti0GwlRTJsf9rmxUZOcMIfogC6_2VKta5AI8ENY8-w-7xzokTGzvv32_B87JPekkFpSis-WjPTDYrgwgGWEmxKriO8CTSraf5VYuwF8HjoRhEBxzzMOF1xfW44gmWjEeWTRLHQ.webp",
+      "genre": 9
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 52,
+    "fields": {
+      "title": "셔터 아일랜드 (2010)",
+      "description": "보스턴 셔터아일랜드의 정신병원에서 환자가 실종되는 사건이 발생한다. 연방보안관 테디 다니엘스(레오나르도 디카프리오)는 수사를 위해 동료 척(마크 러팔로)과 함께 셔터아일랜드로 향한다. 셔터 아일랜드에 위치한 이 병원은 중범죄를 저지른 정신병자를 격리하는 병동으로 탈출 자체가 불가능하다. 하지만 자식 셋을 죽인 혐의를 받고 있는 여인이 이상한 쪽지만을 남긴 채 감쪽같이 사라지고, 테디는 수사를 위해 의사, 간호사, 병원관계자 등을 심문하지만 모두 입이라도 맞춘 듯 꾸며낸 듯한 말들만 하고, 수사는 전혀 진척되지 않는다. 설상가상 폭풍이 불어 닥쳐 테디와 척은 섬에 고립되게 되고, 그들에게 점점 괴이한 일들이 일어나기 시작한다.",
+      "poster": "https://i.namu.wiki/i/B6rpb31l05ZrQ4cpAWBqpfLqwkgR6JwYSp8Nw1ybIyhyWQNF2pbQw8a_obF_n-BfE5vSu12MntO3hgTVf6YM7ciwtOw6vbhofcBQuk3p59ikhGAEXkudQ4E-NdZJYnhZ5stKRrzTQ5_Na-qQW8Gx8zk2zcSzV5O1MwKj3Jm1700.webp",
+      "genre": 9
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 53,
+    "fields": {
+      "title": "양들의 침묵 (1991)",
+      "description": "FBI 수습요원 클라리스 스털링(Clarice Starling: 조디 포스터 분)은 어느 날 상관 크로포드(Jack Crawford: 스콧 글렌 분)로부터 살인 사건을 추적토록 명령받는다. 그 살인사건은 피해자가 모두 몸집이 비대한 여인들이고 피부가 도려내어져 있다는 엽기적인 사건이었다. ‘버팔로 빌’이라고 별명이 붙여진 살인범에 대한 아무런 단서를 잡지 못한 채 전전긍긍해 있었다. 사건을 담당하고 있는 크로포드는 사건 해결에 결정적인 도움이 될만한 사람을 알고 있었는데, 바로 한니발 렉터 박사(Dr. Hannibal 'The Cannibal' Lecter: 안소니 홉킨스 분)였다. 살인자의 심리를 알기 위해 이 괴인 한니발 렉터 박사를 찾아가는 스털링에게 상관 크로 포드는 한니발은 남의 마음을 읽는 독심술의 대가이니 그의 수법에 휘말려들지 말라고 경고한다. 한니발 렉터는 일명 ‘카니발(식인종) 한니발’이라고 알려진 흉악범으로 죽인 사람의 살을 뜯어먹는 흉측한 수법으로 자기 환자 9명을 살해하고 정신 이상 범죄자 수감소에 수감 중이던 전직 정신과 의사였다. 팽팽한 신경전 속에의 첫 만남. 렉터는 스털링과 처음 만나자마자 스털링의 체취와 옷차림, 그리고 간단한 말 몇 마디로 그녀의 출신과 배경을 간파해 그녀를 놀라게한다. 그러나 내색 않고 계속 정중히 대하며, 명석한 두뇌로 침착하고 조리있게 주어진 상황을 분석하는 스털링에게 렉터는 호감을 보여 대화에 응하는데.",
+      "poster": "https://i.namu.wiki/i/B6rpb31l05ZrQ4cpAWBqpcTnk6tyonh_iAsLg4Cl6xoOMRYncMrNl_tdfG7K-pphS9fHid5PHCAgzfY-r9JQdYPqmFnKk7GQB40J8-clMTakaVXv4uSLPAoKWAAfdZrZGU4DDs1TYAINVbzsf_q7ZtrQUylVV2jVbFXfOKHJjkg.webp",
+      "genre": 9
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 54,
+    "fields": {
+      "title": "샤이닝 (1980)",
+      "description": "겨울 동안 호텔을 관리하며 느긋하게 소설을 쓸 수 있는 기회를 잡은 ‘잭’은 가족들을 데리고 눈 내리는 고요한 오버룩 호텔로 향한다. 보이지 않는 영혼을 볼 수 있는 ‘샤이닝’ 능력을 가진 아들 ‘대니’는 이 호텔에 드리워진 음산한 기운을 직감적으로 느낀다. 폭설로 호텔이 고립되자 환상과 현실의 경계에서 점점 미쳐가는 ‘잭’, 그리고 그를 지켜보는 아내 ‘웬디’와 아들 ‘대니’. 가까워져 오는 극한의 공포. 스탠리 큐브릭 감독이 남긴 스릴러 영화의 바이블.",
+      "poster": "https://i.namu.wiki/i/B6rpb31l05ZrQ4cpAWBqpb7gaY3FVaGIQlrp4XPrzLTQe0pEizW7qQ145s-1MIcByMt0Mo0rGR256Qk_7F1qJlQkM70YhleDqRgp8QiBrs38T6tjF6aKn-GmbWCfM-x8UCLt3v7YtcdOTm7JEfN1w4fsL0EV8y9aGx5270WSi2o.webp",
+      "genre": 9
+    }
+  }
+]

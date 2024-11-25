@@ -1,7 +1,7 @@
 import os
 import environ
 from openai import OpenAI
-from system_role import BASE_ROLE, DETAIL_ROLE
+from .system_role import BASE_ROLE, DETAIL_ROLE
 
 """ Memo
 temperature 조정

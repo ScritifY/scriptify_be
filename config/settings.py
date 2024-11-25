@@ -33,14 +33,15 @@ SECRET_KEY = env('SECRET_KEY')
 DEBUG = True
 
 ALLOWED_HOSTS = [
+    '127.0.0.1',
     '3.39.187.9',
 ]
-
 
 # Application definition
 
 INSTALLED_APPS = [
     'accounts',
+    'movies',
     'rest_framework',
     'rest_framework.authtoken',
     'dj_rest_auth',

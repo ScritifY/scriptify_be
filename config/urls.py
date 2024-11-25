@@ -22,4 +22,5 @@ API_PATH = 'api/v1/'
 urlpatterns = [
     path('admin/', admin.site.urls),
     path(f'{API_PATH}accounts/', include('accounts.urls')),
+    path(f'{API_PATH}movie/', include('movies.urls')),
 ]

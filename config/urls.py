@@ -23,4 +23,5 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path(f'{API_PATH}accounts/', include('accounts.urls')),
     path(f'{API_PATH}movie/', include('movies.urls')),
+    path(f'{API_PATH}scenario/', include('scenarios.urls')),
 ]

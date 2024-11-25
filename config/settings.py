@@ -43,6 +43,7 @@ INSTALLED_APPS = [
     'accounts',
     'movies',
     'scenarios',
+    'reviews',
     'rest_framework',
     'rest_framework.authtoken',
     'dj_rest_auth',

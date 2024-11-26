@@ -21,14 +21,15 @@ def review(request):
             }
         }
         return Response(data, status=status.HTTP_200_OK)
-    
+
     elif request.method == 'POST':
         serializer = ReviewSerializer(data=request.data)
         if serializer.is_valid():
-            serializer.save(user=request.user)
+            review = serializer.save(user=request.user)
+            response_serializer = ReviewSerializer(review)
             data = {
-                'statusCode': 201,
-                **serializer.data
+              'statusCode': 201,
+              'data': response_serializer.data
             }
             return Response(data, status=status.HTTP_201_CREATED)
         return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)

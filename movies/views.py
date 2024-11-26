@@ -11,7 +11,13 @@ from .serializers import MovieSerializer
 def movie_list(request):
     movies = Movie.objects.all()
     serializer = MovieSerializer(movies, many=True)
-    return Response(serializer.data, status=status.HTTP_200_OK)
+    data = {
+        'statusCode': 200,
+        'data': {
+            'movies': serializer.data
+        }
+    }
+    return Response(data, status=status.HTTP_200_OK)
 
 
 # 2. 특정 장르의 영화 조회
@@ -22,4 +28,10 @@ def movies_by_genre(request, genre_pk):
     # Memo: 3~5개만 보내줄지?
     movies = Movie.objects.filter(genre=genre)
     serializer = MovieSerializer(movies, many=True)
-    return Response(serializer.data, status=status.HTTP_200_OK)
+    data = {
+        'statusCode': 200,
+        'data': {
+            'movies': serializer.data
+        }
+    }
+    return Response(data, status=status.HTTP_200_OK)

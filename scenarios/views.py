@@ -44,6 +44,22 @@ def message_from_request(request):
             message_type=message_type, 
             content=message_content
         )
+    elif message_type == 'revise':
+        scenario_id = request.data.get('scenarioId')
+        if not scenario_id:
+            return Response({"error": "scenarioId is required"}, status=status.HTTP_400_BAD_REQUEST)
+
+        try:
+            scenario = Scenario.objects.get(id=scenario_id, user=user)
+        except Scenario.DoesNotExist:
+            return Response({"error": "Scenario not found"}, status=status.HTTP_404_NOT_FOUND)
+
+        message = Message.objects.create(
+            scenario=scenario,
+            type='request',
+            message_type=message_type,
+            content=content
+        )
     else:
         scenario_id = request.data.get('scenarioId')
         if not scenario_id:
